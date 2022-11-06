@@ -1,4 +1,4 @@
-# i_will_name_it_later
+# Flutter Music App
 
 A new Flutter project.
 
